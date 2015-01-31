@@ -1,6 +1,6 @@
 #jEdit Sublime Theme
 
-![jEdit Sublime Theme](https://raw.github.com/webtechnick/jedit_sublime_theme/master/jedit_screen.png)
+![jEdit Sublime Theme](https://github.com/webtechnick/sublime_jedit_theme/blob/master/jedit_screen.png)
 
 ## Installation
 
@@ -16,7 +16,7 @@ Locate your Sublime Text 3 `Packages` directory by using the menu item `Preferen
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    git clone https://github.com/webtechnick/jedit_sublime_theme.git
+    git clone https://github.com/webtechnick/sublime_jedit_theme.git
 
 ### Download Manually
 
